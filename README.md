@@ -16,28 +16,38 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Ofentse
+- **Date: Mekgwe
+- **Current Role/Position: Sofware Engineering Stuten
+- **Field of Interest: Backend Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+    Python
+    HTML
+    CSS
     - Identify skills you need to develop or improve.
+    JavaScript
+    SQL
+    APIs
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+    I'm more interested in Backend Development
     - What values are important to you in a work environment?
+    Being mindful, respecting every individual, and delivering great work.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+    I've explored Fintech sector.
     - Note any particular areas that piqued your interest.
+    Challanges, and solving global FinTec problems.
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
