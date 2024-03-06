@@ -51,39 +51,52 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+      I enjoy being alone, and working on things that require me to to think hard. 
     - Identify any gaps or areas for further exploration.
+      My personal gap is dealing or being around group people, that is the most challanging thing to me.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+  In the next 1-2 years I want to focus on getting a Job and working on upgrading on mathematics, it would be great if its hybrid or remote.
     - Explain the rationale behind each goal.
+    I believe mathematics, trains the brain to see patterns fast, and also helps with improving ones ability to approach problems analytically.
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+  In the next 3-5 years, I want to be at a point where I have a BSC is  mathematics.
     - Describe how these align with your interests and skills.
+   Later in life I want to finish my professional career doing research.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+      The plan is to keep practicing daily, even when I dont feel like it, I should at least put in like 15 minutes it add something to the prograss.
     - Include any resources or support required.
+      The support I will need is people who will understand and supoprt me emotionally, because I often get burnouts.
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+      The first will be to achieve my short term gaols, because my long term gaols and short term goals are related if not same.
     - Consider additional skills, experiences, or qualifications needed.
+      I think, I could try and learn how to be ok with being around people, because I'll be working with people for a very long time😒
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+      Burnouts, being around groups of people regularly.
     - Consider strategies to overcome these challenges.
+      Try to make time just for self care.
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
+      As I am doiong software engineering and I want to focus on the backend of it. Doing mathematics will add more value to my skills therefore I could grow in the industry.
     - Include networking, mentorship, or educational opportunities.
 
 ### Submission
